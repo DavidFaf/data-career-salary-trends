@@ -1,6 +1,6 @@
 # 📊 Data Career Salary & Trends Dashboard
 
-![Dashboard Preview](./dashboard/Dashboard_Screenshot.png)
+<img width="1397" alt="Data Professionals" src="https://github.com/user-attachments/assets/cbe114a7-5b40-4610-9abe-23e0c147235a" />
 
 This Power BI dashboard explores global trends in data careers, based on a survey of **500+ professionals** across job roles, countries, and experience levels. The goal is to uncover insights about compensation, satisfaction, tool usage, and demographics in the modern data workforce.
 
@@ -48,7 +48,7 @@ This Power BI dashboard explores global trends in data careers, based on a surve
 
 ## 📌 View Full Dashboard
 
-> (Optional) [Link to Power BI embed or Tableau Public, if hosted]
+> (Optional) [Link to Power BI coming soon]
 
 ---
 
