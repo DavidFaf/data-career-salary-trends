@@ -1,6 +1,7 @@
 # 📊 Data Career Salary & Trends Dashboard
 
-![Dashboard Preview](./dashboard/Dashboard_Screenshot.png)
+
+<img width="1397" alt="Data Professionals" src="https://github.com/user-attachments/assets/e1432f73-8c8c-427e-9c5c-c07e6d9a2343" />
 
 This interactive Power BI dashboard highlights survey results from **500+ data professionals**, focusing on salary, satisfaction, programming language preference, and demographics.
 
@@ -54,7 +55,7 @@ This interactive Power BI dashboard highlights survey results from **500+ data p
 ---
 
 ## 📌 View GitHub Repo  
-🔗 [GitHub Repository](https://github.com/YOUR_USERNAME/data-career-salary-trends/)
+🔗 [GitHub Repository](https://github.com/DavidFaf/data-career-salary-trends/)
 
 ---
 
